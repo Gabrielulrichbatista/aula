@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-image: url('https://www.designerd.com.br/wp-content/uploads/2018/07/download.png');
+    color: black;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: lean;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-title{
+    color: ;
+    text-align: center;
+  }
+  .site-subtitle{
+    text-align: center;
+    font-style: bold;
+  }
